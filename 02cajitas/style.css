@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+
+}
+div{
+    width: 200px;
+    height: 200px;
+    background: rgb(2, 75, 71);
+    margin: 20PX auto;
+    
+    padding: 40px;
+    border: 10px solid rgb(68, 32, 70);
+
+}
+
+.c2{
+
+    width: 100px;
+    height: 100px;
+    background: rgb(162, 135, 45);
+    margin: 10PX auto;
+    
+    padding: 20px;
+    border: 10px solid rgb(127, 127, 212);
+
+}
+
+.c3{
+
+    width: 150px;
+    height: 150px;
+    background: rgb(214, 198, 57);
+    margin: 10PX auto;
+    
+    padding: 30px;
+    border: 20px solid rgb(29, 188, 216);
+
+}
+
+.c3{
+
+    width: 150px;
+    height: 150px;
+    background: rgb(214, 198, 57);
+    margin: 10PX auto;
+    
+    padding: 30px;
+    border: 20px solid rgb(29, 132, 216);
+
+}
+
+.c4{
+
+    width: 250px;
+    height: 250px;
+    background: rgb(57, 214, 154);
+    margin: 40PX auto;
+    
+    padding: 30px;
+    border: 20px solid rgb(132, 29, 216);
+
+}
+
+.c5{
+
+    width: 50px;
+    height: 50px;
+    background: rgb(214, 57, 65);
+    margin: 40PX auto;
+    
+    padding: 30px;
+    border: 10px solid rgb(216, 57, 29);
+
+}
+
+.c6{
+
+    width: 350px;
+    height: 350px;
+    background: rgb(214, 57, 130);
+    margin: 40PX auto;
+    
+    padding: 30px;
+    border: 10px solid rgb(112, 182, 209);
+
+}
+
+.c7{
+
+    width: 70px;
+    height: 70px;
+    background: rgb(255, 230, 0);
+    margin: 50PX auto;
+    
+    padding: 30px;
+    border: 20px solid rgb(255, 0, 191);
+
+}
+
+.c8{
+
+    width: 180px;
+    height: 180px;
+    background: rgb(89, 0, 255);
+    margin: 50PX auto;
+    
+    padding: 30px;
+    border: 20px solid rgb(255, 102, 0);
+
+}
+
+.c9{
+
+    width: 120px;
+    height: 120px;
+    background: rgb(237, 81, 133);
+    margin: 50PX auto;
+    
+    padding: 40px;
+    border: 10px solid rgb(136, 0, 255);
+
+}
+
+.c10{
+
+    width: 190px;
+    height: 190px;
+    background: rgb(81, 255, 0);
+    margin: 40PX auto;
+    
+    padding: 30px;
+    border: 20px solid rgb(0, 217, 255);
+
+}

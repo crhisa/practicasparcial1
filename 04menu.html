@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Menú de las Prácticas</title>
+    <link rel="stylesheet" href="estilos.css">
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style>
+        body {
+            background: linear-gradient(45deg, #FFD700, #32CD32, #00CED1, #FF8C00);
+            background-size: 400% 400%;
+            animation: rainbow 8s ease-in-out infinite;
+            font-family: 'Comic Sans MS', cursive, Arial, sans-serif;
+            margin: 20px;
+        }
+        
+        @keyframes rainbow {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .menu-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #F0F8FF, #E0FFFF);
+            padding: 25px;
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(0, 206, 209, 0.3);
+            border: 3px solid #00CED1;
+        }
+        h1 {
+            text-align: center;
+            color: #FF8C00;
+            text-decoration: none;
+            font-size: 32px;
+            text-shadow: 2px 2px 4px rgba(255, 140, 0, 0.3);
+            margin-bottom: 30px;
+        }
+        .menu-item {
+            margin: 15px 0;
+            padding: 15px;
+            background: linear-gradient(45deg, #98FB98, #87CEEB);
+            border-radius: 15px;
+            text-align: center;
+            border: 2px solid #32CD32;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(50, 205, 50, 0.2);
+        }
+        .menu-item a {
+            text-decoration: none;
+            color: #006400;
+            font-weight: bold;
+            font-size: 18px;
+            text-shadow: 1px 1px 2px rgba(0, 100, 0, 0.2);
+        }
+        .menu-item:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 25px rgba(50, 205, 50, 0.4);
+            background: linear-gradient(45deg, #32CD32, #00CED1);
+        }
+        .menu-item a:hover {
+            color: #FF8C00;
+        }
+        .section {
+            margin: 20px 0;
+            border-top: 2px solid #32CD32;
+            padding-top: 15px;
+        }
+        .section-title {
+            text-align: center;
+            color: #FF8C00;
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu-container">
+        <h1>Menú de Prácticas HTML</h1>
+        
+        <div class="section">
+            <div class="section-title">Prácticas Básicas</div>
+            <div class="menu-item"><a href="01miprimeravez.html">01 - Mi Primera Vez (Etiquetas de Texto)</a></div>
+            <div class="menu-item"><a href="01autobiografia.html">01 - Autobiografía</a></div>
+            <div class="menu-item"><a href="02listas.html">02 - Listas</a></div>
+            <div class="menu-item"><a href="02mislistas.html">02 - Mis Listas</a></div>
+            <div class="menu-item"><a href="03imagenes.html">03 - Imágenes</a></div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Enlaces y Navegación</div>
+            <div class="menu-item"><a href="04enlaces.html">04 - Enlaces</a></div>
+            <div class="menu-item"><a href="04menu.html">04 - Menú (Esta página)</a></div>
+            <div class="menu-item"><a href="04wiki.html">04 - Wiki</a></div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Tablas y Formularios</div>
+            <div class="menu-item"><a href="05tablas.html">05 - Tablas</a></div>
+            <div class="menu-item"><a href="05horariodeclases.html">05 - Horario de Clases</a></div>
+            <div class="menu-item"><a href="06formularios.html">06 - Formularios</a></div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Multimedia</div>
+            <div class="menu-item"><a href="07multimedia.html">07 - Multimedia</a></div>
+            <div class="menu-item"><a href="08Multimediayaudios.html">08 - Multimedia y Audios</a></div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">miniProyecto </div>
+            <div class="menu-item"><a href="08miniproyecto/index.html">08 - Mini Proyecto</a></div>
+    
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(95, 17, 110);
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.borde{
+    display: flex;
+    width: 400px;
+    height: 500px;
+    border: 6px solid black;
+    margin: 20px auto;
+    border-radius: 20px;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgb(255, 255, 255) 0%, rgb(203, 152, 223) 100%);
+    
+}
+.circulo{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: black;
+    background: radial-gradient(circle, rgb(255, 255, 255) 0%, rgb(203, 152, 223) 100%);
+    border: 6px solid black;
+    border-radius: 100px;
+    top: 80px;
+    right: 566px;
+}
+.cabeza{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: black;
+    border-radius: 100px;
+    top: 95px;
+    right: 615px;
+}
+.cuerpo{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: black;
+    border-radius: 100px;
+    top: 150px;
+    right: 600px;
+}
+.imagen{
+   
+    width: 390px;
+    height: 110px;
+    border-radius: 5px;
+    
+}
+.linea{
+    position: absolute;
+    width: 394px;
+    height: 4px;
+    border: 4px solid black;
+    border-radius: 20px;
+    background: black ;
+    top: 135px;
+    right: 443px;
+    
+}
+.encuesta{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border: 0px solid white;
+    top: 250px;
+    left: 500px;
+
+}
+label{
+    font-family: "arial black";
+    font-weight: bold;
+    margin: 10px;
+    display:block;
+}
+input{
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid silver;
+    height: 40px;
+    margin-top: 0px;
+}
+button{
+    width: 50%;
+    height: 40px;
+    background: blueviolet;
+    color: white;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 5px;
+    display: block;
+    border: none;
+}
+a{
+    text-decoration: none;
+    display: block;
+    margin: auto;
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+span{
+    font-family: "Arial ";
+    font-size: 70px;
+    font-style: italic;
+    font-weight: 700;
+}
+.t1{
+font-family: "Arial Black ";
+ font-size: 40px;
+   font-style: normal;
+  font-weight: 200;
+}
+.t2{
+    font-family: "Calibri ";
+     font-size: 100px;
+       font-style: oblique;
+      font-weight: 500;
+    }
+ .t3{
+ font-family: "Calibri ";
+font-size: 35px;
+font-style: oblique;
+font-weight: 300;
+        }
+ t4{
+font-family: "Comic Sans MS";
+ font-size: 80px;
+ font-style: inherit;
+font-weight: 600;
+  }
+d1{
+  text-decoration: 2px dashed overline gold;
+}
+.d2{
+  text-decoration: 7px double underline red;
+}
+.d3{
+  text-decoration: 5px dotted line-through green;
+}

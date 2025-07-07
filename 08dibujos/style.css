@@ -1,0 +1,429 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.fondo{
+    display: block;
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    margin: 20px auto;
+}
+
+.cabeza{
+    width: 70px;
+    height: 70px;
+    background: black;
+    border-radius: 100%;
+    margin: -25px auto;
+}
+.cuerpo{
+    width: 10px;
+    height: 250px;
+    background: black;
+    border-radius: 10px;
+    margin: -30px auto;
+}
+.brazoiz{
+    width: 10px;
+    height: 130px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(-60deg);
+    position: relative;
+    top: -280px;
+    left:90px;
+}
+.brazode{
+    width: 10px;
+    height: 130px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(60deg);
+    position: relative;
+    top: -411px;
+    left:200px;
+}
+.piernaiz{
+    width: 10px;
+    height: 130px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(40deg);
+    position: relative;
+    top: -312px;
+    left:104px;
+}
+.piernade{
+    width: 10px;
+    height: 130px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(-40deg);
+    position: relative;
+    top: -440px;
+    left:185px;
+}
+.manoiz{
+    width: 10px;
+    height: 30px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(90deg);
+    position: relative;
+    top: -200px;
+    left:25px;
+}
+.manode{
+    width: 10px;
+    height: 30px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(90deg);
+    position: relative;
+    top: -231px;
+    left:265px;
+}
+.pieiz{
+    width: 10px;
+    height: 30px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(90deg);
+    position: relative;
+    top: -474px;
+    left:55px;
+}
+.piede{
+    width: 10px;
+    height: 30px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(90deg);
+    position: relative;
+    top: -504px;
+    left:233px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.circulo{
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, rgb(243, 239, 10)0%, rgb(238,139,0)100%);
+    border-radius: 100%;
+    margin: 30px auto;
+    border: 3px solid black;
+}
+.emoji{
+    width: 300px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 30px auto;
+}
+.ojod1{
+    width: 20px;
+    height: 40px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -235px;
+    left: 160px;
+}
+.boca{
+    width: 80px;
+    height: 40px;
+    border: 5px solid black;
+    border-radius: 0 0 50px 50px;
+    border-top: none;
+    position: absolute;
+    top: 650px;
+    left: 500px;
+}
+.ojoi1{
+    width: 20px;
+    height: 40px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -195px;
+    left: 100px;  
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+.circulo{
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, rgb(251, 255, 0)0%, rgb(238,139,0)100%);
+    border-radius: 100%;
+    margin: 30px auto;
+    border: 3px solid black;
+}
+.emoji2{
+    width: 300px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 30px auto;
+}
+.ojod{ 
+    width: 20px;
+    height: 40px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -235px;
+    left: 160px;
+}
+.boca1{
+    width: 75px;
+    height: 40px;
+    border: 5px solid black;
+    border-radius: 0 0 50px 50px;
+    border-top: none;
+    position: absolute;
+    top: 768px;
+    left: 270px;
+}
+.ojoi{
+    width: 20px;
+    height: 40px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -195px;
+    left: 100px;  
+}
+.hoyoi{
+    width: 15px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+    position: relative;
+    top: -205px;
+    left: 104px;   
+}
+.hoyod{
+    width: 15px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+    position: relative;
+    top: -215px;
+    left: 175px;   
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+.circul{
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, rgb(247, 128, 31)0%, rgb(226, 6, 6)100%);
+    border-radius: 100%;
+    margin: 30px auto;
+    border: 3px solid black;
+}
+.emoji3{
+    width: 300px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 30px auto;
+}
+.ojo{
+    width: 20px;
+    height: 30px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -180px;
+    left: 164px;
+}
+.bocaa{
+    width: 80px;
+    height: 40px;
+    border: 5px solid black;
+    border-radius: 60px 60px 0 0;
+    border-top: none;
+    position: absolute;
+    top: 1200px;
+    left: 270px;
+    
+}
+.ojo2{
+    width: 20px;
+    height: 30px;
+    background: black;
+    border-radius: 70%;
+    position: relative;
+    top: -209px;
+    left: 111px;  
+}
+.ceja2{
+    width: 30px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: black;
+    left: 165px;
+    top: -245px;
+    position: relative;
+    transform: rotate(-33deg);
+}
+.ceja3{
+    width: 30px;
+    height: 5px;
+    background-color: black;
+    border-radius: 5px;
+    position: relative;
+    top: -250px;
+    left: 98px;
+    transform: rotate(30deg);
+}
+.escena {
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+    position: relative;
+    margin: 20px auto;
+    background-color: #87CEEB;
+}
+
+.suelo {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(21, 109, 21);
+    position: absolute;
+    bottom: 0;
+}
+
+.casa {
+    width: 150px;
+    height: 120px;
+    background-color: rgb(216, 204, 204);
+    position: absolute;
+    left: 100px;
+    bottom: 50px;
+    border: 2px solid black;
+}
+
+.techo {
+    width: 150px;
+    height: 20px;
+    background-color: rgb(67, 58, 150);
+    position: absolute;
+    left: 100px;
+    bottom: 170px;
+    border: 2px solid black;
+}
+
+.puerta {
+    width: 40px;
+    height: 60px;
+    background-color: rgb(54, 43, 117);
+    position: absolute;
+    left: 130px;
+    bottom: 50px;
+    border: 2px solid black;
+}
+
+.ventana {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(214, 233, 240);
+    position: absolute;
+    left: 190px;
+    bottom: 110px;
+    border: 2px solid black;
+}
+
+.arbol {
+    position: absolute;
+    left: 300px;
+    bottom: 50px;
+}
+
+.tronco {
+    width: 20px;
+    height: 60px;
+    background-color: rgb(88, 38, 14);
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+}
+
+.copa {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(19, 209, 19);
+    border-radius: 50%;
+    position: absolute;
+    left: -5px;
+    bottom: 40px;
+}
+
+.sol {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+.sol::after {
+content: "";
+position: absolute;
+width: 70px;
+height: 70px;
+left: -10px;
+top: -10px;
+background: radial-gradient(circle, rgba(255,255,0,0.5) 20%,rgba(255,255,0,0) 80%);
+}
+
+.nube{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    left: 120px;
+    top: 70px;
+}
+.nube2{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    left: 85px;
+    top: 75px;
+}
+.nube3{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    left: 160px;
+    top: 75px;
+}
+
+

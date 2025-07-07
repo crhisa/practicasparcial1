@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    border: 3px solid yellow;
+    display: block;
+    margin: 20px auto;
+}
+.unidadpx{
+    width: 200px;
+    height: 200px;
+}
+.unidadcm{
+    width: 20cm;
+    height: 20cm;
+}
+.unidadmm{
+    width: 20mm;
+    height: 20mm;
+}
+.unidadQ{
+    width: 20Q;
+    height: 20Q;
+}
+.unidadin{
+    width: 20in;
+    height: 20in;
+}
+.unidadpt{
+    width: 20pt;
+    height: 20pt;
+}
+.unidadpc{
+    width: 20pc;
+    height: 20pc;
+}
